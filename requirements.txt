@@ -1,0 +1,8 @@
+openai
+duckduckgo-search 
+phidata
+uvicorn
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
