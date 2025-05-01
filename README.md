@@ -2,7 +2,7 @@
 
 ```bash
 conda create -n agent python -y
-conda activate agentic_ai
+conda activate agent
 
 pip install -U phidata openai duckduckgo-search
 setx OPENAI_API_KEY sk-***
