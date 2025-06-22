@@ -1,5 +1,5 @@
 date_slot,specialization,doctor_name,is_available,patient_to_attend
-05-08-2024 08:00,general_dentist,john doe,True,
+05-08-2024 08:00,general_dentist,john doe,False,1000082.0
 05-08-2024 08:30,general_dentist,john doe,False,1000082.0
 05-08-2024 09:00,general_dentist,john doe,False,1000048.0
 05-08-2024 09:30,general_dentist,john doe,False,1000036.0
@@ -4261,21 +4261,21 @@ date_slot,specialization,doctor_name,is_available,patient_to_attend
 02-09-2024 15:30,orthodontist,kevin anderson,True,
 02-09-2024 16:00,orthodontist,kevin anderson,True,
 02-09-2024 16:30,orthodontist,kevin anderson,True,
-03-09-2024 08:00,orthodontist,kevin anderson,True,
-03-09-2024 08:30,orthodontist,kevin anderson,True,
+03-09-2024 08:00,orthodontist,kevin anderson,False,1111223.0
+03-09-2024 08:30,orthodontist,kevin anderson,False,1111111.0
 03-09-2024 09:00,orthodontist,kevin anderson,False,1000015.0
 03-09-2024 09:30,orthodontist,kevin anderson,False,1000060.0
 03-09-2024 10:00,orthodontist,kevin anderson,False,1000100.0
 03-09-2024 10:30,orthodontist,kevin anderson,False,1000034.0
 03-09-2024 11:00,orthodontist,kevin anderson,False,1000076.0
-03-09-2024 11:30,orthodontist,kevin anderson,True,
-03-09-2024 12:00,orthodontist,kevin anderson,True,
+03-09-2024 11:30,orthodontist,kevin anderson,False,1111111.0
+03-09-2024 12:00,orthodontist,kevin anderson,False,1111223.0
 03-09-2024 12:30,orthodontist,kevin anderson,True,
-03-09-2024 13:00,orthodontist,kevin anderson,True,
+03-09-2024 13:00,orthodontist,kevin anderson,False,78797516.0
 03-09-2024 13:30,orthodontist,kevin anderson,False,1000023.0
 03-09-2024 14:00,orthodontist,kevin anderson,True,
 03-09-2024 14:30,orthodontist,kevin anderson,True,
 03-09-2024 15:00,orthodontist,kevin anderson,True,
-03-09-2024 15:30,orthodontist,kevin anderson,True,
-03-09-2024 16:00,orthodontist,kevin anderson,True,
-03-09-2024 16:30,orthodontist,kevin anderson,True,
+03-09-2024 15:30,orthodontist,kevin anderson,False,1111223.0
+03-09-2024 16:00,orthodontist,kevin anderson,False,1111223.0
+03-09-2024 16:30,orthodontist,kevin anderson,False,1111223.0
